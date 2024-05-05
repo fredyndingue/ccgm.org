@@ -6,11 +6,11 @@
 
 .netflix_effect { 
     position: relative;
-    background-image: url('../img/flag-cameroon.jpg');
+    background-image: url('../img/flag-cameroon2.jpeg');
     background-size: cover;
     color: white;
     text-align: center;
-    padding: 100px 0; /* Adjust padding as needed */
+    padding: 150px 0; /* Adjust padding as needed */
   }
 
 .netflix_effect::before{
